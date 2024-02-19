@@ -46,7 +46,7 @@ The following icons indicate pointers for
 ### Which one should I choose, Python or Go?
 
 * Mercari uses Go for building the backend of their applications. If you like taking on challenges, using Go will let you develop in an environment similar to Mercari's.
-* Python is a relatively easy-to-write programming language. Choosing Python may make it easier for you to understand the overall flow.
+* Python is a relatively easy-to-write programming language. Choosing Python may make it easier for you to understand the overall flow. Hello
 
 
 * MercariではBackend開発にGoを利用しています。挑戦できそうな方はこちらを選んでいただくとよりMercariに近い環境で開発いただけます。
