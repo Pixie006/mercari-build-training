@@ -1,0 +1,8 @@
+# - name: Build and push Docker image
+#   uses: docker/build-push-action@v2
+#   with:
+#     username: ${{ Pixie006 }}
+#     password: ${{ secrets.GITHUB_TOKEN }}
+#     repository: ghcr.io/Pixie/mercari-build-training
+#     tag_with_ref: true
+#     tags: latest
